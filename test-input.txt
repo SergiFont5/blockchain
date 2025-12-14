@@ -1,0 +1,10 @@
+test.p12
+password123
+testkey
+password123
+add Primera transacció
+add Segona transacció
+add Tercera transacció
+print
+verify
+exit

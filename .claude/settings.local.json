@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mvn clean compile:*)",
+      "Bash(keytool:*)",
+      "Bash(NUL)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
